@@ -1,5 +1,10 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Kelvin Gichohi</h1>
 <h3 align="center">A passionate frontend and backend developer from Kenya</h3>
+<pre>
+img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif"
+img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"
+</pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=506kelvin&label=Profile%20views&color=0e75b6&style=flat" alt="506kelvin" /> </p>
 
