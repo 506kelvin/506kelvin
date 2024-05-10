@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" alt="Banner" width="600" height="200"/>
+<img src="https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif" alt="Banner" width="500" height="300"/>
 
 
 <h1 align="center">Hi 👋, I'm Kelvin Gichohi</h1>
