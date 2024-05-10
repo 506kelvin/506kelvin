@@ -1,11 +1,15 @@
+<div align="center">
 <img src="https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif" alt="Banner" width="500" height="300"/>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Kelvin Gichohi</h1>
 <h3 align="center">A passionate frontend and backend developer from Kenya</h3>
-
+<div align="center">
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=506kelvin&label=Profile%20views&color=0e75b6&style=flat" alt="506kelvin" /> </p>
