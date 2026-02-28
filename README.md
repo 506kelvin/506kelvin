@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═══╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `AI & Machine Learning Engineer` · `CS Graduate` · `Nairobi, Kenya 🇰🇪`
+### `AI & Machine Learning Engineer` · `CS 2026 Graduate` · `Nakuru, Kenya 🇰🇪`
 
 *Building AI systems that bridge theory and real-world impact.*
 
