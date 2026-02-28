@@ -15,7 +15,7 @@
 
 [![Email](https://img.shields.io/badge/gichohikelvin506%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:gichohikelvin506@gmail.com)
 [![GitHub](https://img.shields.io/badge/@506kelvin-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/506kelvin)
-[![Location](https://img.shields.io/badge/Nairobi%2C_Kenya-0D1117?style=flat-square&logo=googlemaps&logoColor=4285F4)](#)
+[![Location](https://img.shields.io/badge/Nakuru%2C_Kenya-0D1117?style=flat-square&logo=googlemaps&logoColor=4285F4)](#)
 
 </div>
 
