@@ -1,40 +1,125 @@
 <div align="center">
-<img src="https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif" alt="Banner" width="500" height="300"/>
+
+```
+██╗  ██╗███████╗██╗    ██╗   ██╗██╗███╗   ██╗
+██║ ██╔╝██╔════╝██║    ██║   ██║██║████╗  ██║
+█████╔╝ █████╗  ██║    ██║   ██║██║██╔██╗ ██║
+██╔═██╗ ██╔══╝  ██║    ╚██╗ ██╔╝██║██║╚██╗██║
+██║  ██╗███████╗███████╗╚████╔╝ ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚══════╝ ╚═══╝  ╚═╝╚═╝  ╚═══╝
+```
+
+### `AI & Machine Learning Engineer` · `CS Graduate` · `Nairobi, Kenya 🇰🇪`
+
+*Building AI systems that bridge theory and real-world impact.*
+
+[![Email](https://img.shields.io/badge/gichohikelvin506%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:gichohikelvin506@gmail.com)
+[![GitHub](https://img.shields.io/badge/@506kelvin-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/506kelvin)
+[![Location](https://img.shields.io/badge/Nairobi%2C_Kenya-0D1117?style=flat-square&logo=googlemaps&logoColor=4285F4)](#)
+
 </div>
 
+---
 
-<h1 align="center">Hi 👋, I'm Kelvin Gichohi</h1>
-<h3 align="center">A passionate frontend and backend developer from Kenya</h3>
+## `> whoami`
+
+Computer Science graduate with a deep focus on **Artificial Intelligence**, **Machine Learning**, and **LLM systems**. I enjoy building practical AI solutions that combine data processing, vector search, and modern LLM frameworks — turning research concepts into working software.
+
+---
+
+## `> current_focus`
+
+```python
+focus_areas = [
+    "Retrieval-Augmented Generation (RAG) systems",
+    "Natural Language Processing (NLP)",
+    "LLM application development",
+    "AI engineering best practices",
+    "Google Cloud & Vertex AI",
+]
+```
+
+---
+
+## `> featured_projects`
+
+### 🗂️ Document Q&A System — *RAG Prototype*
+
+> A retrieval-based question answering system designed to minimize hallucinations and deliver grounded responses.
+
+| Component | Implementation |
+|-----------|----------------|
+| Retrieval | FAISS vector similarity search |
+| Embeddings | HuggingFace embedding models |
+| LLM | LLaMA 3.3 via Groq API |
+| Framework | LangChain + custom prompt templates |
+| Chunking | Text chunking & embedding pipeline |
+
+---
+
+### 🏷️ NLP Text Classification
+
+> End-to-end text classification pipeline exploring traditional NLP techniques and feature engineering.
+
+- **Preprocessing** — tokenization, stopword removal, lemmatization  
+- **Feature Engineering** — Count Vectorization & TF-IDF comparison  
+- **Analysis** — vocabulary sizes and feature representations  
+- **Evaluation** — classification model benchmarking  
+
+---
+
+📁 *More projects available in my [repositories](https://github.com/506kelvin)*
+
+---
+
+## `> tech_stack`
+
 <div align="center">
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=375BD2)
+![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logo=meta&logoColor=0467DF)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux_WSL2-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
+
 </div>
 
+---
 
+## `> github_stats`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=506kelvin&label=Profile%20views&color=0e75b6&style=flat" alt="506kelvin" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=506kelvin" alt="506kelvin" /></a> </p>
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=506kelvin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-- 🔭 I’m currently working on **a complete 2023 web development bootcamp**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=506kelvin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-- 🌱 I’m currently learning **node.js, react.js , express.js**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/506kelvin](https://github.com/506kelvin)
+---
 
-- 💬 Ask me about **bootstrap, flexbox, mongodb, mongoose**
+<div align="center">
 
-- 📫 How to reach me **gichohikelvin506@gmail.com**
+```
+Continuously learning. Continuously building.
+```
 
-- ⚡ Fun fact **I strike a balance between agreeableness and disagreeablenes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=506kelvin&show_icons=true&locale=en&layout=compact" alt="506kelvin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=506kelvin&show_icons=true&locale=en" alt="506kelvin" /></p>
+</div>
