@@ -106,13 +106,7 @@ focus_areas = [
 
 ## `> github_stats`
 
-<div align="center">
 
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=506kelvin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=506kelvin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
 
 ---
 
